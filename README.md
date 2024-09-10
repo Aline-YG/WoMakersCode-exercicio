@@ -1,1 +1,1 @@
-# WoMakersCode-exercicio-SQL
+# WoMakersCode-exercicios
